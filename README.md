@@ -1,5 +1,4 @@
 # Digital Image Processing Repository
 
 ## Course-Work
-
-![Screenshot (155)](https://github.com/user-attachments/assets/016e487b-1485-475b-a219-9ed44e1e5cf8)
+![Screenshot (156)](https://github.com/user-attachments/assets/18c932f0-3ee6-4a00-a4c7-c6d21e8c5727)
